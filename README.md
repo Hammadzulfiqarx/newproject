@@ -16,7 +16,6 @@ Key Features of my project :
 
 < -- how a new developer could make use of your project. -- >
 To get a local copy up and running, follow these steps.
-> -- Prerequisites
 In order to run this project you need to follow the given below steps :
 1 > Setup :
 Clone this repository to your desired folder:
