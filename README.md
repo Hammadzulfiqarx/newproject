@@ -13,6 +13,11 @@ Key Features of my project :
 1 : This project contains a html file with some content like the project name.
 2 : This project contains a css file with some content of styling the tags.
 3 : In this project some extra files like adding some text files, git files and json files.
+4 : project contains two branches.
+i - main.
+ii - feature-branch.
+The main branch contains all the important files and folders of the project.
+The feature-branch contains the files of html and css content.
 
 < -- how a new developer could make use of your project. -- >
 To get a local copy up and running, follow these steps.
