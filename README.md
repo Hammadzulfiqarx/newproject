@@ -2,16 +2,16 @@
 Project Name : Hello Techwise.
 
 < --  Author of Project  -- >
-Name : Hammad Zulfiqar
-GitHub : @hammadzulfiqarx
-facebook : @Hammad Zulfiqar
-instagram : @hammad_zu1fiqar
-Email : hammadzulfiqarx@gmail.com
+Name : Hammad Zulfiqar.
+GitHub : @hammadzulfiqarx.
+facebook : @Hammad Zulfiqar.
+instagram : @hammad_zu1fiqar.
+Email : hammadzulfiqarx@gmail.com.
 
 < -- Key features -- >
 Key Features of my project :
-1 : This project contains a html file with some content like the project name.
-2 : This project contains a css file with some content of styling the tags.
+1 : This project contains html and css files with some content like the project name and styling.
+2 : This project is free of any type of errors and all the errors are corrected by linters.
 3 : In this project some extra files like adding some text files, git files and json files.
 4 : project contains two branches.
 i - main.
